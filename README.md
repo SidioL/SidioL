@@ -21,7 +21,7 @@ Tenho mais de 20 anos de experiência na área de tecnologia e ensino técnico, 
 - 📜 **Pós-Graduação em Admin. e Segurança de Sistemas Computacionais** (Créditos concluídos - Estácio FIC).
 - ⚡ **Técnico em Eletroeletrônica** (Hardware & Automação - Senai).
 - 💻 **Técnico em Informática** (Hardware & Software - CEPEP).
-- 💻 **Informática Básica** (Base sólida desde 1992 - Siben Informática).
+- 💻 **Informática Básica** (Base sólida desde 1994 - Siben Informática).
 - 👨‍🏫 **Tech Educator**: Ex-Professor na EEEP (CENTEC).
 
 ---
